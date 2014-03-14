@@ -1,0 +1,66 @@
+Sat Jul  6 12:07:43 2013
+
+Node 1 online at Sat Jul  6 12:07:43 2013
+
+
+Node 2 online at Sat Jul  6 12:07:43 2013
+
+
+Node 3 failed at Sat Jul  6 12:07:43 2013
+
+
+All nodes offline at Sat Jul  6 12:08:44 2013
+
+
+
+
+All nodes offline at Sat Jul  6 12:09:03 2013
+
+
+
+
+All nodes offline at Sat Jul  6 12:10:12 2013
+
+
+
+
+All nodes offline at Sat Jul  6 12:10:36 2013
+
+
+
+
+All nodes offline at Sat Jul  6 12:10:44 2013
+
+
+
+
+All nodes offline at Sat Jul  6 12:11:58 2013
+
+
+
+
+All nodes offline at Sat Jul  6 12:12:04 2013
+
+
+
+
+All nodes offline at Sat Jul  6 12:12:18 2013
+
+
+
+
+
+Sat Jul  6 12:19:48 2013
+
+Node 1 online at Sat Jul  6 12:19:48 2013
+
+
+Node 2 online at Sat Jul  6 12:19:48 2013
+
+
+Node 3 failed at Sat Jul  6 12:19:48 2013
+
+
+All nodes offline at Sat Jul  6 12:21:41 2013
+
+
