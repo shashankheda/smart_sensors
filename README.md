@@ -1,20 +1,4 @@
-This project about "Smart Wireless Sensors for Retail World" is aimed at making shelves smarter and digitally live. The wireless
-sensor module developed is capable of tracking customer activity, shelf activity and store activity and is very
-easily controlled and monitored remotely.
+#####Smart Wireless Sensors for Retail World - Shashank Heda (IIT Gandhinagar)
+Keeping a track of customer activity in a large retail environment means a great deal to the retailers today. Though sensors have been used extensively in retail sector, the need of the hour is to interconnect them to extract useful and intelligent information, which lays the foundation for 'Internet of Things in Retail'.
 
-It uses simple components like nRF24L01+ transceiver (2.4 GHz), ATMEGA 328P-PU micro-controller and an IR Sensor Module
-to facilitate effective and highly accurate data transmission (upto 30-40 meters without any external antenna) at a
-very low cost.
-
-The Directory Structure is:
-- Central_Server_Code_Raspberry
-    - Examples (You may learn from these)
-    - Main Code Files (C++ Files to be compiled on Raspberry Pi)
-    - README.md (instructions)
-    - Header Files (must be included with the path specified either in #include statement or while compilation)
-    
-- Node_num_ATMEGA
-    - Node_num_ATMEGA.ino (to be uploaded to an Arduino/ATMEGA 328P-PU)
-    - README.md (instructions)
-    
-- README.md
+The module made under "Smart Wireless Sensors for the Retail World" is aimed at making shelves smarter and digitally live. Highly accurate information about customer activity, shelf activity and store activity can be easily obtained using this technology at a very low cost. The data thus generated may help retailers to increase revenues by optimization of store layouts, store arrival hours etc.
